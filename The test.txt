@@ -1,0 +1,9 @@
+# The teste(一个测试)
+
+这是第一份（我的）github文件，用作测试服务器通讯
+
+每次连接服务器后， 我可能需要为在这个文件里进行更新
+
+format: time// year'month'hour'minute
+
+时间//2026'9'24'18'56
