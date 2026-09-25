@@ -7,3 +7,8 @@
 format: time// year'month'hour'minute
 
 时间//2026'9'24'18'56
+
+
+
+log：conntct is ok
+26.925.1039
